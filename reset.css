@@ -1,0 +1,20 @@
+@font-face {
+    font-family: sahel-light;
+    src: url(/fonts/Sahel-Light.eot) format(eot),
+         url(/fonts/Sahel-Light.woff) format(woff),
+         url(/fonts/Sahel-Light.woff2) format(woff2);
+         font-weight: normal;
+         font-style: normal;
+  }
+  * {
+  margin: 0;
+  padding: 0;
+  font-family: sahel-light;
+  box-sizing: border-box;
+  text-decoration: none;
+  }
+  a{
+  text-decoration: none;
+  color: #fff;
+  padding: 0px;
+  }
